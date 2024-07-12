@@ -2,13 +2,13 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQ3ZW1qa3JyazBjajI2ZGpzaWxqZDYzNzZhZG50MjNxdGU5NjVoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/theabdulloh/">
+    <a href="https://www.linkedin.com/in/theabdulloh/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://leetcode.com/u/theabdulloh/">
+    <a href="https://leetcode.com/u/theabdulloh/" target="_blank">
       <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
-    <a href="https://t.me/AbdulloxJorayev">
+    <a href="https://t.me/AbdulloxJorayev" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
